@@ -6,6 +6,7 @@ genes and cell types that causally mediate genetic risk for Crohn’s disease.
 
 ## Data Sources
 - GWAS: IBD summary statistics (GWAS Catalog)
+- Gene annotations: Gencode (GRCh38.p14)
 - eQTL: GTEx v8 (colon, blood)
 - scRNA-seq: Human intestinal biopsy datasets (GEO)
 
