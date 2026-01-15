@@ -5,14 +5,15 @@ This project integrates GWAS, eQTL, and single-cell RNA-seq data to identify
 genes and cell types that causally mediate genetic risk for Crohn’s disease.
 
 ## Data Sources
-- GWAS: IBD summary statistics (GWAS Catalog)
+- GWAS: IBD full summary statistics GCST90292538 (GWAS Catalog)
 - Gene annotations: Gencode (GRCh38.p14)
+- Gene expressions (RNA-seq): GSE57945 (GEO)
+- Gene sets: Hallmark gene set (MSigDB)
 - eQTL: GTEx v8 (colon, blood)
-- scRNA-seq: Human intestinal biopsy datasets (GEO)
 
 ## Methods
 - SNP-to-gene mapping
-- Cell-type–specific expression analysis
+- Gene set expression analysis
 - Mendelian Randomization for causal inference
 - Pathway and network interpretation
 
