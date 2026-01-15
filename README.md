@@ -7,7 +7,7 @@ genes and cell types that causally mediate genetic risk for Crohn’s disease.
 ## Data Sources
 - GWAS: IBD full summary statistics GCST90292538 (GWAS Catalog)
 - Gene annotations: Gencode (GRCh38.p14)
-- Gene expressions (RNA-seq): GSE57945 (GEO)
+- Gene expressions: RNA-Seq GSE57945 (GEO)
 - Gene sets: Hallmark gene set (MSigDB)
 - eQTL: GTEx v8 (colon, blood)
 
